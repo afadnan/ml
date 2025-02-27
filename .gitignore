@@ -1,1 +1,9 @@
+# To create a virtual enviroment 
+
+# run the below command
+
+# conda create -p venv python=3.12
+
+# conda activate /Your/.../Path/venv
+
 venv
